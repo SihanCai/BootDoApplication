@@ -17,7 +17,13 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 
-
+/**
+ * 文章内容
+ * 
+ * @author chglee
+ * @email 1992lcg@163.com
+ * @date 2017-09-09 10:03:34
+ */
 @Controller
 @RequestMapping("/blog/bContent")
 public class ContentController extends BaseController {
