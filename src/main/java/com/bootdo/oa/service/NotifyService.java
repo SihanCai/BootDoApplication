@@ -6,6 +6,13 @@ import com.bootdo.oa.domain.NotifyDO;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 通知通告
+ * 
+ * @author chglee
+ * @email 1992lcg@163.com
+ * @date 2017-10-05 17:11:16
+ */
 public interface NotifyService {
 
 	NotifyDO get(Long id);
