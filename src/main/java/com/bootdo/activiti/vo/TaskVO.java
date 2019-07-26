@@ -2,7 +2,9 @@ package com.bootdo.activiti.vo;
 
 import org.activiti.engine.task.Task;
 
+/**
 
+ */
 public class TaskVO  {
 
     public TaskVO(Task task){

@@ -9,7 +9,9 @@ import org.activiti.engine.task.Task;
 import java.util.Date;
 import java.util.List;
 
-
+/**
+ *
+ */
 public class ActivitiDO {
     private String taskId; 		// 任务编号
     private String taskName; 	// 任务名称

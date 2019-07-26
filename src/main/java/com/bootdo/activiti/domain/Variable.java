@@ -1,7 +1,8 @@
 package com.bootdo.activiti.domain;
 
 
-
+/**
+ */
 public class Variable {
 
     private String keys;
